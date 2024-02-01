@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://git.ligo.org/gabriele-vajente/interactivefitting/-/archive/{{ version }}/interactivefitting-{{ version }}.tar.gz
-  sha256: 10e7cabf00a7872e2ed1e41a34163cf91abbe32108a2a7448f36f9a02872db61
+  sha256: 0a3b50828c5701e7b27eb067b92f92c68d5500f1340cfa852d24c7cd269f4933
 
 build:
   script: {{ PYTHON }} -m pip install . -vv --no-deps --no-build-isolation
