@@ -33,7 +33,7 @@ test:
 
 about:
   home: https://git.ligo.org/gabriele-vajente/interactivefitting
-  summary: 'Graphical user interface to fit transfer functions with VectFit3'
+  summary: 'Graphical user interface to fit transfer functions with VectFit3.'
   description:
     Graphical user interface to fit transfer functions with VectFit3. 
     And to allow tuning the result by manually moving
