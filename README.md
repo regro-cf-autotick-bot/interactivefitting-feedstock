@@ -7,7 +7,7 @@ Home: https://git.ligo.org/gabriele-vajente/interactivefitting
 
 Package license: GPL-3.0-or-later
 
-Summary: Graphical user interface to fit transfer functions with VectFit3
+Summary: Graphical user interface to fit transfer functions with VectFit3.
 
 Development: https://git.ligo.org/gabriele-vajente/interactivefitting
 
